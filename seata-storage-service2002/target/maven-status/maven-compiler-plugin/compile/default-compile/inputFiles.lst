@@ -1,0 +1,9 @@
+D:\Development\workspace\workspace202105\cloud2020\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\alibaba\SeataStorageServiceApplication2002.java
+D:\Development\workspace\workspace202105\cloud2020\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\alibaba\service\StorageService.java
+D:\Development\workspace\workspace202105\cloud2020\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\alibaba\domain\CommonResult.java
+D:\Development\workspace\workspace202105\cloud2020\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\alibaba\service\impl\StorageServiceImpl.java
+D:\Development\workspace\workspace202105\cloud2020\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\alibaba\domain\Storage.java
+D:\Development\workspace\workspace202105\cloud2020\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\alibaba\dao\StorageDao.java
+D:\Development\workspace\workspace202105\cloud2020\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\alibaba\config\DataSourceProxyConfig.java
+D:\Development\workspace\workspace202105\cloud2020\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\alibaba\config\MyBatisConfig.java
+D:\Development\workspace\workspace202105\cloud2020\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud\alibaba\controller\StorageController.java
