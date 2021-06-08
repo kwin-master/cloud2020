@@ -85,5 +85,6 @@ public class PaymentController {
 
     public void test() {
         System.out.println("hello git!");
+        System.out.println("hello git2");
     }
 }
